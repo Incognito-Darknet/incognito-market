@@ -4,7 +4,7 @@ Hash: SHA512
 
 1. Incognito Market (Links)
 
-http://incogntorjl3h5b6ln2h6vwb4333zjeqvgkt2qij6fliwd6uvtqpqlyd.onion
+https://incognito-onion.net
 
 2. Incognito Market (Tor) Online
 
